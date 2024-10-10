@@ -13,7 +13,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 # Inbuilt function to set bot token and admin IDs
 def set_config():
     global TOKEN, ADMIN_IDS
-    TOKEN = "7043577565:AAF7tHVj50JjDssmRkvMAuIp71TX4Fk5QyM"  # Replace with your bot token
+    TOKEN = "7563363118:AAH5b_5CDbW7a-TsMBnEkoqjOqSAVQHpR98"  # Replace with your bot token
     ADMIN_IDS = [6034758461]  # Replace with your admin IDs as integers
 
 set_config()
